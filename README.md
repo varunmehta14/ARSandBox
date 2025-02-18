@@ -1,4 +1,9 @@
 # **Augmented Reality (AR) Sandbox using Orbbec Femto Depth Sensor**  
+![IMG_2643](https://github.com/user-attachments/assets/499db0f9-1b78-4f10-b23d-acc4e89d0aed)
+
+
+https://github.com/user-attachments/assets/c7c628f4-4335-40a4-b869-a8dca3990e86
+
 
 ## **Overview**  
 This project integrates an **Orbbec Femto depth sensor** with **Rhino and Grasshopper** to create an **interactive AR sandbox**. The system captures **real-time depth data**, processes it into a **3D point cloud**, and generates **dynamic terrain models**. Additionally, it simulates **water flow dynamics** and **rainfall effects**, allowing for interactive real-world physics modeling.  
