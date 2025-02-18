@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "mdTJOL1UBbM=",
+  "success": true,
+  "projectFilePath": "D:\\Ghplugin\\ARSandbox\\ARSandbox\\ARSandbox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MLA\\.nuget\\packages\\delaunator\\1.0.10\\delaunator.1.0.10.nupkg.sha512",
+    "C:\\Users\\MLA\\.nuget\\packages\\grasshopper\\8.0.23304.9001\\grasshopper.8.0.23304.9001.nupkg.sha512",
+    "C:\\Users\\MLA\\.nuget\\packages\\k4adotnet-femto\\1.4.17\\k4adotnet-femto.1.4.17.nupkg.sha512",
+    "C:\\Users\\MLA\\.nuget\\packages\\miconvexhull\\1.1.19.1019\\miconvexhull.1.1.19.1019.nupkg.sha512",
+    "C:\\Users\\MLA\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512",
+    "C:\\Users\\MLA\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\MLA\\.nuget\\packages\\rhinocommon\\8.0.23304.9001\\rhinocommon.8.0.23304.9001.nupkg.sha512",
+    "C:\\Users\\MLA\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\MLA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\MLA\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\MLA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\MLA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\MLA\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\MLA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
